@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/miguegodoy.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/miguegodoy.github.io/static/js/main.237843ce.chunk.js",
+    "main.js.map": "/miguegodoy.github.io/static/js/main.237843ce.chunk.js.map",
+    "runtime-main.js": "/miguegodoy.github.io/static/js/runtime-main.6fd5418c.js",
+    "runtime-main.js.map": "/miguegodoy.github.io/static/js/runtime-main.6fd5418c.js.map",
+    "static/js/2.d430c3b1.chunk.js": "/miguegodoy.github.io/static/js/2.d430c3b1.chunk.js",
+    "static/js/2.d430c3b1.chunk.js.map": "/miguegodoy.github.io/static/js/2.d430c3b1.chunk.js.map",
+    "static/js/3.25af404f.chunk.js": "/miguegodoy.github.io/static/js/3.25af404f.chunk.js",
+    "static/js/3.25af404f.chunk.js.map": "/miguegodoy.github.io/static/js/3.25af404f.chunk.js.map",
+    "index.html": "/miguegodoy.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/miguegodoy.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d430c3b1.chunk.js.LICENSE.txt": "/miguegodoy.github.io/static/js/2.d430c3b1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/miguegodoy.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fd5418c.js",
+    "static/js/2.d430c3b1.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.237843ce.chunk.js"
+  ]
+}
